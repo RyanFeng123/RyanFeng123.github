@@ -7,7 +7,7 @@ excerpt: ""
 tags: []
 image: 
 ---
-
+< img src="https://RyanFeng123.github.io/images/visualization.png" alt="teaser" itemprop="image">
 <br/>信息可视化作品
 <div class="tiles">
 {% for post in site.categories.infovis %}
